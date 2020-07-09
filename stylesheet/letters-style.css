@@ -1,0 +1,10 @@
+@font-face {
+  font-family: ArcaMajora3-Heavy;
+  src: url('/assets/ArcaMajora3-Heavy.otf';
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
